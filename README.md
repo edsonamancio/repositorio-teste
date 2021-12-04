@@ -1,5 +1,5 @@
-## Pepositório do Desafio do Projeto sobre Git/GitHub da Dio
+# Pepositório do Desafio do Projeto sobre Git/GitHub da Dio
 Desafio de projeto sobre GIt/Github
-# Links úteis
+## Links úteis
 
 [Sintaxe Básica MarkDown](https://www.markdownguide.org/basic-syntax/)
